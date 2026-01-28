@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Joe! I'm an Astrophysicist turned Junior Software Developer currently enrolled with Northcoders' Software Development with AI Course 🪐👨‍💻
+I'm Joe! I'm a Junior Software Developer with a background in astrophysics currently enrolled with Northcoders' Software Development with AI Course 🪐👨‍💻
 
 Here's what I've worked on...<br />
 ⭐️ Analyse Data with SQL (Codecademy)<br />
