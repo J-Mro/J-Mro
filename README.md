@@ -9,6 +9,7 @@ Here's what I've worked on...<br />
 ⭐️ 2 top-grade thesis projects (with contributions to published research in the Monthly Notices of the Royal Astronomical Society!)
 
 Currently I'm...<br />
+💫 Working on BoroughBooks: a collaborative project to build a mobile app allowing users to manage book loans in their local communities <br />
 💫 Developing skills in Full-Stack Development<br />
 💫 Learning French, Arabic, and BSL
 
