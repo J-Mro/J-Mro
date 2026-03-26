@@ -1,7 +1,3 @@
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!--   J O E   M R O U E H   ·   GitHub Profile README             -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
 <div align="center">
 
 ```
@@ -83,10 +79,10 @@ Built as part of a **team of 4** at Northcoders, using Agile practices and paire
 ---
 
 ### 📰 NC News
-> A Reddit-style news platform — RESTful API paired with a React single-page application.
+> A Reddit-style news platform. Created a RESTful API paired with a React single-page application.
 
 - **API:** `JavaScript` · `PostgreSQL` · `Express.js` · `Supabase` · `Render` · `Jest` · `SuperTest`
-- **Front-End:** `JavaScript` · `React` · `Axios` · `HTML` · `CSS`
+- **Front-End:** `JSX` · `React` · `Axios` · `HTML` · `CSS`
 
 &nbsp;&nbsp;✦ &nbsp;[`nc-news/front-end`](https://github.com/J-Mro/nc-news-fe)&nbsp;&nbsp;·&nbsp;&nbsp;[`nc-news/back-end`](https://github.com/J-Mro/nc-back-end)
 
@@ -102,7 +98,7 @@ Things I've completed on the road here:
 | 🟡 | Analyse Data with SQL | Codecademy |
 | 🟡 | Learn SQL | Codecademy |
 | 🟡 | Learn Python 3 | Codecademy |
-| 📄 | MSc Astrophysics *(Distinction)* — published research contribution | QMUL |
+| 📄 | MSc Astrophysics *(Distinction)* | QMUL |
 | 📄 | BSc Physics with Astrophysics *(1st Class)* | QMUL |
 
 ---
