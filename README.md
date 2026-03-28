@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a Junior Software Developer with a background in physics and astrophysics currently enrolled with Northcoders' **Software Development with AI Course** 🪐👨‍💻</br>
+I'm a Junior Software Developer with a background in physics and astrophysics that's just completed Northcoders' **Software Development with AI Course** 🪐👨‍💻</br>
 
 Say hey!
 
@@ -106,7 +106,6 @@ Things I've completed on the road here:
 ## 💫 Currently
 
 - 🎯 &nbsp;**Preparing for junior developer and software engineer roles**
-- 💻 &nbsp;Completing the Northcoders Full-Stack bootcamp
 - 📖 &nbsp;Deepening skills in React, TDD, and full-stack patterns
 
 ---
