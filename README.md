@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm a Junior Software Developer with a background in physics and astrophysics that's just completed Northcoders' **Software Development with AI Course** 🪐👨‍💻</br>
+I'm a Junior Software Developer with a background in physics and astrophysics that's just completed Northcoders' **Software Development with AI Bootcamp** 🪐👨‍💻</br>
 
 Say hey!
 
