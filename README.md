@@ -5,14 +5,6 @@
        .         *    ✦  H I ,  I ' M  J O E  ✦        *
   .        *                 .               .
 ```
-
-### Junior Full Stack Software Developer
-#### Physics & Astrophysics background · Northcoders bootcamp · London
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jmroueh)
-&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:j.k.mroueh@gmail.com)
-
 </div>
 
 ---
@@ -68,7 +60,7 @@ Say hey!
 
 ---
 
-## 🚀 Projects
+## 🚀 Recent Projects
 
 ### 📚 BoroughBooks
 > A mobile app connecting readers within local communities to share and loan books.
@@ -91,5 +83,3 @@ Built as part of a **team of 4** at Northcoders, using Agile practices and paire
 &nbsp;&nbsp;✦ &nbsp;[`nc-news/front-end`](https://github.com/J-Mro/nc-news-fe)&nbsp;&nbsp;·&nbsp;&nbsp;[`nc-news/back-end`](https://github.com/J-Mro/nc-back-end)
 
 ---
-
-(that's all for now!)
