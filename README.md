@@ -19,11 +19,11 @@
 
 ## 👋 About Me
 
-I'm a Junior Software Developer with a background in physics and astrophysics that's just completed Northcoders' **Software Development with AI Bootcamp** 🪐👨‍💻</br>
+Junior Software Developer with a background in physics and astrophysics that's just completed Northcoders' **Software Development with AI Bootcamp**</br>
+
+Usually found playing the same 10 chords and patterns on a Fender CD-60D, thinking up an acapella remix, or trying to improve his Arabic, French, Spanish or BSL</br>
 
 Say hey!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -92,41 +92,4 @@ Built as part of a **team of 4** at Northcoders, using Agile practices and paire
 
 ---
 
-## ⭐ Learning & Development
-
-Things I've completed on the road here:
-
-| &nbsp; | Course | Provider |
-|:---:|:---|:---:|
-| 🟡 | Northcoders Software Development with AI Bootcamp | Northcoders |
-| 🟡 | Analyse Data with SQL | Codecademy |
-| 🟡 | Learn SQL | Codecademy |
-| 🟡 | Learn Python 3 | Codecademy |
-| 📄 | MSc Astrophysics *(Distinction)* | QMUL |
-| 📄 | BSc Physics with Astrophysics *(1st Class)* | QMUL |
-
----
-
-## 💫 Currently
-
-- 🎯 &nbsp;**Preparing for junior developer and software engineer roles**
-- 📖 &nbsp;Deepening skills in React, TDD, and full-stack patterns
-
----
-
-## ✨ Beyond the Code
-
-- 🎸 &nbsp;Self-taught guitarist for 10+ years & singer in university Acappella
-- 🌍 &nbsp;Always trying to improve my Lebanese Arabic, French, and British Sign Language
-
----
-
-<div align="center">
-
-```
-  *    ·    *    ·    *    ·    *    ·    *    ·    *    ·    *
-       Open to junior developer & software engineer roles
-  *    ·    *    ·    *    ·    *    ·    *    ·    *    ·    *
-```
-
-</div>
+(that's all for now!)
