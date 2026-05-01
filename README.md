@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-  *        .                  .           *          .
-       .         *    ✦  H I ,  I ' M  J O E  ✦        *
-  .        *                 .               .
+*  .  *     .                                                        .     *  .  *
+   .     *                  ✦   H I ,  I ' M  J O E   ✦                 *     .
+*     .  *                                                            *  .     *
 ```
-</div>
 
+</div>
 ---
 
 ## 👋 About Me
